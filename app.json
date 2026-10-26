@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "리프트 노트",
+    "slug": "powerlifting-notebook",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#101311",
+    "platforms": ["ios", "android"],
+    "plugins": ["expo-sqlite"]
+  }
+}
